@@ -1,1 +1,1 @@
-# gromacs-analysis-toolkit
+# gromacs-rmsd-analyzer
